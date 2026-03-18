@@ -58,8 +58,4 @@ O objetivo é fornecer uma visão completa da produção, permitindo identificar
 
 ---
 
-## 🖥 Como Executar
 
-1. Clonar o repositório:  
-```bash
-git clone https://github.com/GABRIELWCS/Automacao-De-Comprovantes.git
