@@ -58,4 +58,10 @@ O objetivo é fornecer uma visão completa da produção, permitindo identificar
 
 ---
 
+<img width="1872" height="472" alt="Captura de tela 2026-03-18 050613" src="https://github.com/user-attachments/assets/ff987185-c86e-422a-bfc1-873f230d2b9b" />
+<img width="1630" height="336" alt="Dashboard2" src="https://github.com/user-attachments/assets/5b666b05-a16a-4cce-a7e0-dd9bb727c55b" />
+<img width="1909" height="616" alt="Dashboard3" src="https://github.com/user-attachments/assets/5acf2056-c3f8-49c6-a222-40bd184c1cca" />
+
+
+
 
